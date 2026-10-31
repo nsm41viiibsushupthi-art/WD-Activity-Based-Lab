@@ -9,6 +9,6 @@
 
 ## Selected Case Studies
 
-1. Restaurant and Food Ordering
-2.
-3. India and Its Tourism
+1. Personal Profile Page
+2. College Information Page
+3. Restaurant Menu Page
